@@ -1,0 +1,24 @@
+[
+    {
+        "city": "Warsaw",
+        "lat": "52.2300",
+        "lng": "21.0111",
+        "country": "Poland",
+        "iso2": "PL",
+        "admin_name": "Mazowieckie",
+        "capital": "primary",
+        "population": "1860281",
+        "population_proper": "1860281"
+    },
+    {
+        "city": "Kraków",
+        "lat": "50.0614",
+        "lng": "19.9372",
+        "country": "Poland",
+        "iso2": "PL",
+        "admin_name": "Małopolskie",
+        "capital": "admin",
+        "population": "800653",
+        "population_proper": "800653"
+    }
+]
